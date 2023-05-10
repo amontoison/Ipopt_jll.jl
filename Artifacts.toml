@@ -924,10 +924,10 @@ os = "windows"
 [[Ipopt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3beb39d37bcfabb20575fd561c3152555c79e31c"
+git-tree-sha1 = "bedfbefe5e978edd25c28753e0a9e281ea9f2231"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Ipopt.download]]
-    sha256 = "2b04bdecb513e5d6e06d82453a59ae4d7f5dc7dde0c41eabc1792e314d063fed"
-    url = "https://github.com/amontoison/Ipopt_jll.jl/releases/download/Ipopt-v300.1400.1068+0/Ipopt.v300.1400.1068.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "08d43f0c175b62c979322f569f621b4a9ca2c090312a7f2a44576a307ca23920"
+    url = "https://github.com/amontoison/Ipopt_jll.jl/releases/download/Ipopt-v300.1400.1069+0/Ipopt.v300.1400.1069.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
